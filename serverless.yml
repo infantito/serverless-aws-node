@@ -1,10 +1,10 @@
-service: serverless
+service: todo-serverless
 
 provider:
   name: aws
-  runtime: nodejs8.10
-  profile: femasters
-  region: us-west-1
+  runtime: nodejs10.x
+  profile: fmasters-serverless
+  region: us-east-1
   stage: dev
 
 plugins:
