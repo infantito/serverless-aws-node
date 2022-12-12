@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serverless-http": "~2.0.2",
     "serverless-offline": "^6.0.0"
   },
